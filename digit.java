@@ -32,5 +32,3 @@ class Leastcomb
       System.out.printf("%d %d",a[0],a[1]);
   }
 }
-Contact GitHub API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Statu
